@@ -1,0 +1,3 @@
+# Project exclude paths
+/web-app/target/
+/web-service/target/
